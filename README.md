@@ -22,10 +22,10 @@
 ## 📸 运行截图 (Screenshots)
 
 ### 第一步：提取镜像 (Step 1: Extract)
-![Step 1 Screenshot](step1.png)
+![Step 1 Screenshot](images/Step1.png)
 
 ### 第二步：一键刷机 (Step 2: Flash)
-![Step 2 Screenshot](step2.png)
+![Step 2 Screenshot](images/Step2.png)
 
 ## 🚀 如何使用 (How to Use)
 

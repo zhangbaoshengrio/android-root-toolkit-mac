@@ -42,4 +42,4 @@
 * 作者不对因使用本工具造成的任何设备损坏负责。
 
 ---
-*Created by [你的名字] with the help of AI.*
+*Created by zhangbaosheng with the help of AI.*
